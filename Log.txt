@@ -1,0 +1,31 @@
+Log Entry: 4:40:12 PM  Wednesday, August 19, 2020
+User: John
+------------------------------------------------------------------
+Exit Log: 4:41:47 PM  Wednesday, August 19, 2020
+User: John
+Play Count: 2
+Win Count: 1
+------------------------------------------------------------------
+Log Entry: 4:45:00 PM  Wednesday, August 19, 2020
+User: John
+------------------------------------------------------------------
+Exit Log: 3:47:43 PM  Sunday, January 21, 2024
+User: Bob
+Play Count: 2
+Win Count: 1
+------------------------------------------------------------------
+Exit Log: 3:48:21 PM  Sunday, January 21, 2024
+User: Bob
+Play Count: 1
+Win Count: 0
+------------------------------------------------------------------
+Exit Log: 3:48:41 PM  Sunday, January 21, 2024
+User: Bob
+Play Count: 0
+Win Count: 0
+------------------------------------------------------------------
+Exit Log: 3:57:00 PM  Sunday, January 21, 2024
+User: Bob
+Play Count: 1
+Win Count: 0
+------------------------------------------------------------------
